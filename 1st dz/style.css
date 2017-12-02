@@ -1,0 +1,43 @@
+content header{
+    text-align: center;
+}
+header img {
+    height: 100%;
+    width: 240px;
+}
+
+.aboutme {
+    float: right;
+    width: 50%;
+}
+h2,hr {
+    color: blue
+}
+ul {
+   list-style: none;
+   display: flex;
+
+}
+ul li {
+     margin: auto;
+   text-decoration: underline;
+    color: brown;
+    text-transform: uppercase;
+}
+.exp {
+    border: solid black 1px;
+    width: 500px;
+    border-collapse: collapse;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+td,th {
+    border: dotted black 1px;
+}
+tr:first-child td:first-child {
+    background-color: green;
+}
+tr:first-child {
+    background-color: yellow;
+}
