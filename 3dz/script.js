@@ -14,7 +14,7 @@ a)
 
 
 */
-var admin;
-var name = 'Serjant';
-admin = name;
-alert(admin);
+var admin;                  //Create new variable
+var name = 'Serjant';       //Create new variable
+admin = name;               //Write to admin 'Serjant'
+alert(admin);               //Show result !
