@@ -14,3 +14,7 @@ a)
 
 
 */
+var admin;
+var name = 'Serjant';
+admin = name;
+alert(admin);
